@@ -1,0 +1,19 @@
+.admintittle{
+    background-color: darkorange;
+    margin: left 50px;
+    margin :right 50px;
+height:140px;
+line-height:140px;
+text-align:center;
+font-size: 35px;
+}
+.dashboard {
+    font-size: 25px;
+  
+    height: 140px;
+    background-color: ghostwhite;
+}
+.add {
+    background-color: green;
+    font-size: 25px;
+}
